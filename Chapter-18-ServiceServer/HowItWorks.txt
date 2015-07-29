@@ -1,0 +1,12 @@
+1 Добавить в переменную PATH ;C:\Program Files\Java\jdk1.8.0_20\bin;
+2 Компилим stumb 
+
+cd C:\-MyAll-\-JavaTemp-\Chapter-18-ServiceServer\out\production\Chapter-18-ServiceServer
+rmic ServiceServerImpl
+
+3 Запускаем rmiregistry 
+
+start rmiregistry
+
+4 Стартуем сервак
+5 Стартуем клиент
